@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-[Here you can see live project](https://gomycode-props.pages.dev/)
+[Live preview](https://api-checkpoint.pages.dev/)
 
 In the project directory, you can run:
 
